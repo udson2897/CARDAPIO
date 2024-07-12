@@ -1,0 +1,49 @@
+#pagina{
+width: 600px;
+height:750px;
+padding: 5px;
+
+
+    
+}
+
+#banner{
+    text-align: center;
+
+}
+
+
+body{
+display: flex;
+justify-content: center;
+background-image:url(/img/fundo.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 850px;
+background-color: black;
+
+}
+.produtos{
+    color: red;
+
+}
+
+.valor{
+    color:red;
+}
+
+h1 {
+color:red;
+font-size: 45px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h2{
+    color:rgb(248, 103, 6)
+}
+
+h3{
+    color: red;
+    font-size: 22px;
+}
